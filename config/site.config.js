@@ -50,7 +50,7 @@ module.exports = {
   links: [
     {
       name: 'GitHub',
-      link: 'https://github.com/spencerwooo/huafeiyu-onedrive',
+      link: 'https://github.com/a1046700338/huafeiyu-onedrive',
     },
   ],
 
